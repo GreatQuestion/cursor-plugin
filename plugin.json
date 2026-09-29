@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "great-question",
+  "version": "1.0.0",
+  "description": "Run your user research from inside Cursor. Pull what customers said about the flow you're building, and set up studies and screeners without leaving your editor.",
+  "author": {
+    "name": "Great Question",
+    "email": "support@greatquestion.co",
+    "url": "https://www.greatquestion.com"
+  },
+  "homepage": "https://www.greatquestion.com",
+  "repository": "https://github.com/GreatQuestion/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "great-question",
+    "mcp",
+    "user-research",
+    "customer-insights",
+    "research"
+  ]
+}
