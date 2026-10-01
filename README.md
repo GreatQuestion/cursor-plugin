@@ -32,9 +32,7 @@ If your admins have written their own skills in Great Question, Cursor gets thos
 
 - What have customers said about our checkout in the last six months?
 - Give me the three most common complaints about our current dashboard, with direct quotes.
-- Where do new users get stuck during onboarding?
-- Summarise the findings from our most recent prototype test.
-- Create a moderated usability study for this prototype with 8 participants, PMs at SaaS companies, $150 incentive.
+- Set up an interview study on why new users drop off during onboarding: 8 participants, $100 incentive each.
 
 ## Help
 
