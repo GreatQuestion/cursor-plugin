@@ -9,6 +9,7 @@ Run your user research from inside Cursor. Ask what customers said about the flo
 - Read transcripts, highlights, screener responses, and survey and prototype results
 - Create interviews, surveys and prototype tests, with screeners and incentives
 - Shortlist participants from your panel and send screener invitations
+- Set interview availability and add moderators
 
 Your existing Great Question permissions apply, so Cursor only sees what you can see.
 
